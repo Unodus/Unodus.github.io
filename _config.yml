@@ -5,20 +5,20 @@ description: "This is a blog where I write all about my journey into Game Develo
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "james.bradbury.jobs@hotmail.com"
-twitter_username: "@_Unodus"
+twitter_username: "_Unodus"
 github_username: "Unodus"
-linkedin_username: "James Bradbury"
+linkedin_username: "unodus"
 #facebook_username: username 
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
-youtube_username: "Unodus"
+#youtube_username: "UCUO1WDpsM9o5cgxn6LTJ8Fw"
 #googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "Time machine"
 
 rss: rss
 
