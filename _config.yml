@@ -21,7 +21,9 @@ linkedin_username: "unodus"
 
 
 #theme: "minima"
-remote_theme: pages-themes/hacker@v0.2.0 
+theme: "midnight"
+
+#remote_theme: pages-themes/hacker@v0.2.0 
 rss: rss
 
 kramdown:
@@ -32,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
 titles_from_headings:
