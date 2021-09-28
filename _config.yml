@@ -18,8 +18,7 @@ linkedin_username: "unodus"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: pages-themes/hacker@v0.2.0
-
+theme: "minima"
 rss: rss
 
 kramdown:
@@ -29,7 +28,10 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+  #remote_theme: pages-themes/hacker@v0.2.0
+ # - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 titles_from_headings:
   strip_title: true
