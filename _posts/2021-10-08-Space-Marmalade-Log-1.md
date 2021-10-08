@@ -4,7 +4,7 @@ Space Marmalade is a game in development, my passion project. At the time of wri
 
 ---
 
-My name is James, though on the internet I go by "Uno". In my defence, it has been a very busy year. During the year of lockdown, I finished University, got my first job and moved out of the home. 
+In my defence, it has been a very busy year. During the year of lockdown, I finished University, got my first job and moved out of the home. 
 
 I am a game developer (at least, aspiring to be). I have at least one published mobile game (it got taken down). I work full time in a programming role (as a contractor).
 
