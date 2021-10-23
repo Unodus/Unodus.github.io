@@ -4,11 +4,11 @@ Space Marmalade is a game in development, my passion project. At the time of wri
 
 ---
 
-In my defence, it has been a very busy year. During the year of lockdown, I finished University, got my first job and moved out of the home. 
+In my defence, it has been a very busy year! During the year of lockdown, I finished University, got my first job and moved out of the home. 
 
-I am a game developer (at least, aspiring to be). I have at least one published mobile game (it got taken down). I work full time in a programming role (as a contractor).
+I am a game developer. I've worked on several game project, having published at least one mobile game. I work full time as a programmer. This means I've got a pretty solid set of game development skills and experience to back me! 
 
-My hope is not to come across as whiny with these logs. I want to document my development because of the game dev's I am inspired by. Randy, GMTK, Jonas, Sebastian League, to name a few. By sharing my struggles, I'd like to blaze a trail for developers after me.
+I want to document my development because of the game dev's I am inspired by. Randy, GMTK, Jonas, Sebastian League, to name a few. By sharing my struggles, I'd like to blaze a trail for developers after me, as well as keep up my own momentum.
 
 With all that in mind... Why is making a game hard?
 
@@ -29,10 +29,10 @@ In short, the three "rules" for difficulty-free game development are:
 
 It's no surprise that game jam teams who embrace these concepts can produce amazing work.
 
-Watch as I proceed to do none of these things.
+So, how does Space Marmalade measure up?
 
-1. Space Marmalade has had the same goals for months, with little progress to show for it.
-2. We do have a team at the moment. I'm thrilled at the prospect of working with veterans Chase Bethea and Manovermars. Yet, the project as it stands is in a position where it's hard for the team to put their work in. In other words, I need to finish my framework before the team can work. I'm also aware that there is no funding for this project, something unsustainable for any team that can't subsist on game-dev passion alone.
-3. Space Marmalade is still very early in development. It has no trailer, no demo, nothing for a user to offer feedback on. This isn't something I can offer yet, but this blog might give me an early avenue to crucial feedback.
+1. Space Marmalade has been making steady progress, trying to hit milestones for each #ScreenshotSaturday to generate interest in the game
+2. We do have a team at the moment. I'm thrilled at the prospect of working with veterans Chase Bethea (Game Music Composer) and Manovermars (Artist).
+3. Space Marmalade is still very early in development. It has a few video clips, a gamejam submission, and a discord to offer feedback on. Additionally, this blog might become a new avenue for feedback.
 
-On that cheerful note, it's 1 AM in the morning for me and I need to sign off. In the next log I'll try talk more about the game concept itself, my progress with it, and what remains to be done.
+In the next log I'll try talk more about the game concept itself, my progress with it, and what remains to be done!
