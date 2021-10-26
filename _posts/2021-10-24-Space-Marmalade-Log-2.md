@@ -36,11 +36,10 @@ Anyway, back to Space Marmalade...
 
 My game was first pitched for mobile, so I wanted to make the game cursor-driven. Game commands given through the mouse, while avoiding secondary buttons. (Such as right-click and mouse wheel). This reduced the scope of controls that the game could actually use. Less scope means less features that need developing, which can be a positive. Yet it may become unwieldy as I introduce new controls, such as map-zooming. 
 
+
+---
 Accessibility in games is something worth making an effort for. Approaching accessibility as a creative challenge can lead to new technical innovations. I also think it’s important to not become so wrapped up in development that we lose sight of our end goal.
 
 For these reasons, I'll continue to explore and expand the principles I've discovered. I hope that as the game progresses, I'll be able to introduce new innovations like eye-tracking. I also hope that players will take notice, that the game will find an audience that needs it. As the game approaches the testing phase, I'll be sure to reach out to these communities for their input.
-
-
----
 
 I hope someone finds this article interesting and/or useful. Next time I'll try to go into more depth about what Space Marmalade is actually about!
