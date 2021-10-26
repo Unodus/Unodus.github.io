@@ -40,4 +40,7 @@ Accessibility in games is something worth making an effort for. Approaching acce
 
 For these reasons, I'll continue to explore and expand the principles I've discovered. I hope that as the game progresses, I'll be able to introduce new innovations like eye-tracking. I also hope that players will take notice, that the game will find an audience that needs it. As the game approaches the testing phase, I'll be sure to reach out to these communities for their input.
 
-Anyway, I hope someone finds this article interesting and/or useful. Next time I'll try to go into more depth about what Space Marmalade is actually about!
+
+---
+
+I hope someone finds this article interesting and/or useful. Next time I'll try to go into more depth about what Space Marmalade is actually about!
