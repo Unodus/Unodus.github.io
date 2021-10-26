@@ -35,4 +35,14 @@ So, how does Space Marmalade measure up?
 2. We do have a team at the moment. I'm thrilled at the prospect of working with veterans Chase Bethea (Game Music Composer) and Manovermars (Artist).
 3. Space Marmalade is still very early in development. It has a few video clips, a gamejam submission, and a discord to offer feedback on. Additionally, this blog might become a new avenue for feedback.
 
-In the next log I'll try talk more about the game concept itself, my progress with it, and what remains to be done!
+---
+
+When I started this blog entry, I sent an initial draft to my girlfriend and close friends. The feedback I got back was, it was far too negative! I glossed over a lot of my accomplishments, focusing on what the game didn't have. It was definitely cathartic to get a lot of the worries on my mind on paper. Yet when I read back, I realized what I had written was very from the actual truth (which is why it should now read much nicer!).
+ 
+I was feeling an aversion to my game, not because I stopped enjoying it, but because of a constant stress. This is stress I've put on myself, wanting to do the best for my game and succeed.
+
+In my mind, this is the hardest part of game development. We want our games to be good. We put a lot of thought into what the game needs to be good, and when we should be there. When we fall short, it's easy to fall into a cycle of analyzing why. "Am I not working hard enough?", "Have I not been passionate enough?", "Is there something more I can do?"
+
+Burnout is commonplace in our industry, and I suspect this connects to how long games take to develop. I can draw a piece of art in a day, put down the pen, and think "I'm happy with that" or "I'm not happy with that". I would struggle to work on the same piece of art for over a year in the same way. 
+
+In a way, keeping this log forces me to confront the mindset I'm in. To be honest with myself, rather than pressing on regardless. I hope as I work my way through, I'll be able to find and share the answers that help me overcome these challenges!
