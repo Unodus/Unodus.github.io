@@ -20,9 +20,11 @@ These are the principles I want to take into my development of Space Marmalade. 
 
 For this reason, I decided early on that I'd make a game that relied on turn-based mechanics. Chess, D&D and Pokémon are good examples.
 
-Turn-based games happen to be one of my most favourite genres of games. Writing this article, I realise I can attribute this to my own access needs growing up. Playing games that required quick mouse control was impossible on my crappy laptop. 
+Turn-based games happen to be one of my most favourite genres of games. 
 
-This is another important incentive to invest in accessible game design.  From time to time, fully-accessible users will become partially-accessible users.  
+Writing this article, I realise I can attribute this favoritism to the hardware I was limited to when I was younger. Playing games that required quick mouse control was impossible on my crappy laptop, so I was naturally drawn to games that were slow and methodical.
+
+This is another important incentive to invest in accessible game design. Even fully-accessible users will find accessiblity features essential, from time to time. Whether it's because they're restricted to one hand after an injury, or need subtitles because of ongoing background noise. (There's a lot that can be written on this subject, I'll have to save it for another post!)  
 
 Over time, I've discovered different external tools designed to help use software. These range from external buttons, eye-tracking, and tubes you can blow into. These translate input into computer commands using a middleware software. 
 
