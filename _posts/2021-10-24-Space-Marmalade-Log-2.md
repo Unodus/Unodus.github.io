@@ -1,4 +1,4 @@
-## Space Marmalade Log, 07/10/2021
+## Games Accessibility Discussion  [Space Marmalade Log]
 
 Let's talk about game accessibility.
 
