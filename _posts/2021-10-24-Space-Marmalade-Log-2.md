@@ -1,4 +1,4 @@
-## Games Accessibility Discussion  [Space Marmalade Log]
+## Games Accessibility Discussion  [Space Marmalade Log - 2]
 
 Let's talk about game accessibility.
 
