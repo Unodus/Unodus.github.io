@@ -1,4 +1,4 @@
-## A new Hope [Space Marmalade Log 1] 
+## A New Hope [Space Marmalade Log 1] 
 
 Space Marmalade is a game in development, my passion project. At the time of writing, it has been almost a year since the conception of the game. I've discovered one small quaundry. In a nutshell, making games is very hard.
 
